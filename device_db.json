@@ -1,0 +1,369 @@
+{
+    "WaveCacheController_0": {
+        "axi_addr": "0xa00b0000",
+        "arguments": {
+            "channel": 0
+        },
+        "module": "lolenc.bsp.src.module.WaveCacheController",
+        "class": "WaveCacheController"
+    },
+    "TTL_Controller_0": {
+        "axi_addr": "0xa0002000",
+        "arguments": {
+            "channel": 1,
+            "ttl_device": [
+                "jb_0",
+                "jb_1",
+                "jb_2",
+                "jb_3",
+                "jb_4",
+                "jb_5",
+                "jb_6",
+                "jb_7"
+            ]
+        },
+        "module": "lolenc.bsp.src.module.TTL_Controller",
+        "class": "TTL_Controller"
+    },
+    "TTL_Controller_1": {
+        "axi_addr": "0xa0003000",
+        "arguments": {
+            "channel": 2,
+            "ttl_device": [
+                "jc_0",
+                "jc_1",
+                "jc_2",
+                "jc_3",
+                "jc_4",
+                "jc_5",
+                "jc_6",
+                "jc_7"
+            ]
+        },
+        "module": "lolenc.bsp.src.module.TTL_Controller",
+        "class": "TTL_Controller"
+    },
+    "TTL_Controller_2": {
+        "axi_addr": "0xa0004000",
+        "arguments": {
+            "channel": 3,
+            "ttl_device": [
+                "jd_0",
+                "jd_1",
+                "jd_2",
+                "jd_3",
+                "jd_4",
+                "jd_5",
+                "jd_6",
+                "jd_7"
+            ]
+        },
+        "module": "lolenc.bsp.src.module.TTL_Controller",
+        "class": "TTL_Controller"
+    },
+    "SPI_Controller_0": {
+        "axi_addr": "0xa0006000",
+        "arguments": {
+            "channel": 5
+        },
+        "module": "lolenc.bsp.src.module.SPI_Controller",
+        "class": "SPI_Controller"
+    },
+    "SPI_Controller_1": {
+        "axi_addr": "0xa0007000",
+        "arguments": {
+            "channel": 6
+        },
+        "module": "lolenc.bsp.src.module.SPI_Controller",
+        "class": "SPI_Controller"
+    },
+    "InputController_0": {
+        "axi_addr": "0xa0008000",
+        "arguments": {
+            "channel": 7
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_1": {
+        "axi_addr": "0xa0009000",
+        "arguments": {
+            "channel": 8
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_2": {
+        "axi_addr": "0xa000a000",
+        "arguments": {
+            "channel": 9
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_3": {
+        "axi_addr": "0xa000b000",
+        "arguments": {
+            "channel": 10
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_4": {
+        "axi_addr": "0xa000c000",
+        "arguments": {
+            "channel": 11
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_5": {
+        "axi_addr": "0xa000d000",
+        "arguments": {
+            "channel": 12
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_6": {
+        "axi_addr": "0xa000e000",
+        "arguments": {
+            "channel": 13
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_7": {
+        "axi_addr": "0xa000f000",
+        "arguments": {
+            "channel": 14
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_8": {
+        "axi_addr": "0xa0010000",
+        "arguments": {
+            "channel": 15
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "InputController_9": {
+        "axi_addr": "0xa0011000",
+        "arguments": {
+            "channel": 16
+        },
+        "module": "lolenc.bsp.src.module.InputController",
+        "class": "InputController"
+    },
+    "SwitchController_0": {
+        "axi_addr": "0xa0012000",
+        "arguments": {
+            "channel": 17
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_1": {
+        "axi_addr": "0xa0013000",
+        "arguments": {
+            "channel": 18
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_2": {
+        "axi_addr": "0xa0014000",
+        "arguments": {
+            "channel": 19
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_3": {
+        "axi_addr": "0xa0015000",
+        "arguments": {
+            "channel": 20
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_4": {
+        "axi_addr": "0xa0016000",
+        "arguments": {
+            "channel": 21
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_5": {
+        "axi_addr": "0xa0017000",
+        "arguments": {
+            "channel": 22
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_6": {
+        "axi_addr": "0xa0018000",
+        "arguments": {
+            "channel": 23
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "SwitchController_7": {
+        "axi_addr": "0xa0019000",
+        "arguments": {
+            "channel": 24
+        },
+        "module": "lolenc.bsp.src.module.SwitchController",
+        "class": "SwitchController"
+    },
+    "DDS_Controller_00": {
+        "axi_addr": "0xa001a000",
+        "arguments": {
+            "channel": 25
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_01": {
+        "axi_addr": "0xa001b000",
+        "arguments": {
+            "channel": 26
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_02": {
+        "axi_addr": "0xa001c000",
+        "arguments": {
+            "channel": 27
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_03": {
+        "axi_addr": "0xa001d000",
+        "arguments": {
+            "channel": 28
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_04": {
+        "axi_addr": "0xa001e000",
+        "arguments": {
+            "channel": 29
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_05": {
+        "axi_addr": "0xa001f000",
+        "arguments": {
+            "channel": 30
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_06": {
+        "axi_addr": "0xa0020000",
+        "arguments": {
+            "channel": 31
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_07": {
+        "axi_addr": "0xa0021000",
+        "arguments": {
+            "channel": 32
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_10": {
+        "axi_addr": "0xa0022000",
+        "arguments": {
+            "channel": 33
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_11": {
+        "axi_addr": "0xa0023000",
+        "arguments": {
+            "channel": 34
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_12": {
+        "axi_addr": "0xa0024000",
+        "arguments": {
+            "channel": 35
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_13": {
+        "axi_addr": "0xa0025000",
+        "arguments": {
+            "channel": 36
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_14": {
+        "axi_addr": "0xa0026000",
+        "arguments": {
+            "channel": 37
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_15": {
+        "axi_addr": "0xa0027000",
+        "arguments": {
+            "channel": 38
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_16": {
+        "axi_addr": "0xa0028000",
+        "arguments": {
+            "channel": 39
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "DDS_Controller_17": {
+        "axi_addr": "0xa0029000",
+        "arguments": {
+            "channel": 40
+        },
+        "module": "lolenc.bsp.src.module.DDS_Controller",
+        "class": "DDS_Controller"
+    },
+    "Phase_Estimator_0": {
+        "axi_addr": "0xa002a000",
+        "arguments": {
+            "channel": 41
+        },
+        "module": "lolenc.bsp.src.module.Phase_Estimator",
+        "class": "Phase_Estimator"
+    },
+    "FLARE_Aurora_Controller_0": {
+        "axi_addr": "0xa002b000",
+        "arguments": {
+            "channel": 42
+        },
+        "module": "lolenc.bsp.src.module.FLARE_Controller",
+        "class": "FLARE_Controller"
+    }
+
+}

@@ -1,0 +1,15 @@
+.codex_build/
+.codex_xvlog_work
+.Xil/
+client/
+*.elf
+*.log
+*.jou
+*.pb
+xsim.dir/
+log/
+results/
+dataset_db.mdb
+dataset_db.mdb-lock
+last_rid.pyon
+*.bak-*

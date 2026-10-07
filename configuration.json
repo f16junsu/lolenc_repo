@@ -1,0 +1,16 @@
+{
+    "common_path": "C:/Users/user/Desktop/RFSoC/lolenc/",
+    "ip": "172.22.22.236",
+    "port": "8080",
+    "master_port": "8082",
+    "xilinx_include_path": "lolenc/bsp/xilinx",
+    "bsp_src_path": "lolenc/bsp/src",
+    "bsp_include_path": "lolenc/bsp/include",
+    "bsp_lib_path": "lolenc/bsp/lib",
+    "startup_path": "lolenc/bsp/init/startup.S",
+    "linker_path": "lolenc/bsp/linker/linker.ld",
+    "compile_driver": "False",
+    "device_config": "C:/Users/user/Desktop/RFSoC/lolenc_repo/device_config.cpp",
+    "device_db": "C:/Users/user/Desktop/RFSoC/lolenc_repo/device_db.json",
+    "log_path": "C:/Users/user/Desktop/RFSoC/lolenc_repo/log"
+}

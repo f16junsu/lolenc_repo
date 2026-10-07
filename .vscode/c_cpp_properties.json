@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "lolenc-aarch64",
+            "compilerPath": "C:/Program Files (x86)/Arm GNU Toolchain aarch64-none-elf/12.3 rel1/bin/aarch64-none-elf-g++.exe",
+            "intelliSenseMode": "windows-gcc-arm64",
+            "cStandard": "c11",
+            "cppStandard": "gnu++17",
+            "defines": [
+                "__BAREMETAL__"
+            ],
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/../lolenc/lolenc/bsp/include",
+                "${workspaceFolder}/../lolenc/lolenc/bsp/xilinx/bspinclude/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/../lolenc/lolenc/bsp/include",
+                    "${workspaceFolder}/../lolenc/lolenc/bsp/src",
+                    "${workspaceFolder}/../lolenc/lolenc/bsp/xilinx/bspinclude/include"
+                ],
+                "limitSymbolsToIncludedHeaders": false
+            }
+        }
+    ],
+    "version": 4
+}
